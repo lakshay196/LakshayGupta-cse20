@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume</title>
+</head>
+<body>
+
+    <h1><u>Lakshay Gupta</u></h1>
+    <h2><b>Career Objective</b></h2>
+    <p><i>I want to acquire skills in web designing and web 3,c++ and master those skills to get a good job in a company as a leading software develepor.</i></p>
+
+    <h3><b>Education</b></h3>
+    <p>High school, intermediate, ongoing bachelors in technology from ABESEC
+    </p>
+
+    <h4><b>Skills</b></h4>
+    <p>HTML, C++, Basic Programming</p>
+
+    <h5><b>Projects</b></h5>
+    <p>Simple Website Project</p>
+
+    <h6><b>Contact Details</b></h6>
+    <p>Email: lakshaygupta@gmail.com </p>
+    
+    </body>
+    </html>
